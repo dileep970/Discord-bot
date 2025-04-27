@@ -1,3 +1,4 @@
+"""import modules"""
 import discord
 import openai
 import subprocess
